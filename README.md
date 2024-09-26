@@ -1,1 +1,3 @@
-# MyMvcApp-Contact-Databse-Application
+# MVC Contact DB
+
+This is a sample application.
